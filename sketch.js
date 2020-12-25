@@ -44,8 +44,9 @@ function draw() {
   //box2.display();
   //box3.display();
   ground.display();
+	paper.display();
   dustbin.display();
-  paper.display();
+ 
   
   
  
